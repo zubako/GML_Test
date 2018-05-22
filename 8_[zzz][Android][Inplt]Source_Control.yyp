@@ -205,6 +205,14 @@
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
             }
+        },
+        {
+            "Key": "f9881597-8b5a-41bc-9e85-69e90b346f86",
+            "Value": {
+                "id": "52b6a423-e6f8-486d-a3f6-5f533b066e08",
+                "resourcePath": "objects\\object1\\object1.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
